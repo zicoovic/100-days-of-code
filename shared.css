@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,600&display=swap");
+
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+h1 {
+  color: darkslategrey;
+  padding-top: 5px;
+  font-weight: bolder;
+}
+
+p {
+  padding-top: 5px;
+  color: chocolate;
+  font-weight: bold;
+}
+
+#unique {
+  font-family: "Finlandica", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
